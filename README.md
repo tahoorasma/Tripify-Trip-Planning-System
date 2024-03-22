@@ -1,5 +1,5 @@
-#Tripify
-##A Trip Planning System
+# Tripify
+## A Trip Planning System
 It is a system which will plan a trip for the user according to its
 budget. It will ask for the user's budget first and then suggest a trip
 accordingly. It also includes info about weather and traffic conditions. It can
